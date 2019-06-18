@@ -54,4 +54,4 @@ This multiplication gives the convolution result.
   
 See the implementation in python (jupyter notebook) <br>
 [Look at the notebook](https://github.com/alisaaalehi/convolution_as_multiplication/blob/master/Convolution_as_multiplication.ipynb)
- or [Look at this pdf in this repo formore details](https://github.com/alisaaalehi/convolution_as_multiplication/blob/master/ConvAsMulExplained.pdf)
+ or [Look at this pdf in this repo for more details](https://github.com/alisaaalehi/convolution_as_multiplication/blob/master/ConvAsMulExplained.pdf)
